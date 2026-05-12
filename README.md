@@ -1,4 +1,4 @@
-# Hi, I'm Aryan Anand 
+# Hi, I'm Aryan
 
 
 <p align="center">
